@@ -1,4 +1,0 @@
-#!/bin/bash
-cd /home/ubuntu
-sudo rm -rf webapp
-pm2 kill
